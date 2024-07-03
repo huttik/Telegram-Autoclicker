@@ -1,5 +1,9 @@
 # Telegram-Autoclicker
+Контакты
+[Telegram](https://t.me/imhuttik) / [Telegram Chanel](https://t.me/herehuttik)
+
 Автокликер для телеграмм приложений
+
 Данная программа это автоматизация действия за вас, а именно кликер для игр в телеграм:
 1. MemeFi
 2. TapSwap
